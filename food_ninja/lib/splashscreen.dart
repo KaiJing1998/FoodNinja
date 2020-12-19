@@ -1,4 +1,3 @@
-abacacacacac
 import 'package:flutter/material.dart';
 import 'package:food_ninja/loginscreen.dart';
 
