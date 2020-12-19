@@ -1,4 +1,3 @@
-abc
 import 'package:flutter/material.dart';
 import 'package:food_ninja/loginscreen.dart';
 
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
             children: <Widget>[
               Image.asset(
                 'assets/images/foodninjared.png',
-               scale: 2,
+                scale: 2,
               ),
               SizedBox(
                 height: 20,
